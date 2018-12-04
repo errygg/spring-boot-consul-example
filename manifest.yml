@@ -1,0 +1,5 @@
+---
+applications:
+  - name: springconsul
+    buildpack: java_buildpack
+    path: target/spring-consul-demo-0.1.0-SNAPSHOT.jar
